@@ -1,0 +1,2 @@
+>2RSK
+ Start 	 End 	 Sequence	 Length 	 Score

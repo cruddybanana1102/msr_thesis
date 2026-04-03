@@ -1,0 +1,2 @@
+>8ARP
+ Start 	 End 	 Sequence	 Length 	 Score

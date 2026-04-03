@@ -1,0 +1,5 @@
+>7QA2
+Start	End	Sequence	Length	Score	NBR
+0 	 3 	 GGG 	 3 	 3.0
+7 	 11 	 GGGG 	 4 	 4.0
+12 	 16 	 GGGA 	 4 	 2.25	3

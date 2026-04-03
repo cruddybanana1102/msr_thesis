@@ -1,0 +1,4 @@
+>2M18
+ Start 	 End 	 Sequence	 Length 	 Score
+0 	 3 	 GGG 	 3 	 3.0
+6 	 9 	 GGG 	 3 	 3.0

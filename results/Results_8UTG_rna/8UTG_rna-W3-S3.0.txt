@@ -1,0 +1,2 @@
+>8UTG
+ Start 	 End 	 Sequence	 Length 	 Score

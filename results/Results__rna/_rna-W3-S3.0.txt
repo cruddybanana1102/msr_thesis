@@ -1,0 +1,4 @@
+>RNA
+ Start 	 End 	 Sequence	 Length 	 Score
+>8U5Z|model=0|chain=A|type=RNA
+ Start 	 End 	 Sequence	 Length 	 Score

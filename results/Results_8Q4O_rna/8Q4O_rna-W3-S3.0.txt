@@ -1,0 +1,5 @@
+>8Q4O
+ Start 	 End 	 Sequence	 Length 	 Score
+7 	 10 	 GGG 	 3 	 3.0
+13 	 16 	 GGG 	 3 	 3.0
+19 	 22 	 GGG 	 3 	 3.0

@@ -1,0 +1,4 @@
+>8Q4O
+Start	End	Sequence	Length	Score	NBR
+7 	 10 	 GGG 	 3 	 3.0
+13 	 17 	 GGGU 	 4 	 2.25	2

@@ -1,0 +1,5 @@
+>7PS8
+ Start 	 End 	 Sequence	 Length 	 Score
+2 	 5 	 GGG 	 3 	 3.0
+16 	 19 	 GGG 	 3 	 3.0
+20 	 23 	 GGG 	 3 	 3.0

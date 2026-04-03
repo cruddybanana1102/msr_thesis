@@ -1,0 +1,4 @@
+>7PS8
+Start	End	Sequence	Length	Score	NBR
+2 	 5 	 GGG 	 3 	 3.0
+16 	 20 	 GGGC 	 4 	 2.0	2

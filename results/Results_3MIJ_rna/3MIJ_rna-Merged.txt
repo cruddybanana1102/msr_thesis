@@ -1,0 +1,3 @@
+>3MIJ
+Start	End	Sequence	Length	Score	NBR
+2 	 6 	 GGGU 	 4 	 2.25	1

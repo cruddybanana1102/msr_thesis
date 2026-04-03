@@ -1,0 +1,4 @@
+this directory contains *_rna.fasta files, which contain the RNA chains of the relevant PDB ids. 
+Relevant PDB ids are those that have been scraped from RCSB and filtered for query score > some_threshold.
+put these files into G4Hunter.py and see the output 
+

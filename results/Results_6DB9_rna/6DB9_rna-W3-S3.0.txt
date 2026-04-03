@@ -1,0 +1,2 @@
+>6DB9
+ Start 	 End 	 Sequence	 Length 	 Score

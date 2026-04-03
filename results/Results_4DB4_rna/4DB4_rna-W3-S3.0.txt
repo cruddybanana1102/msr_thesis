@@ -1,0 +1,4 @@
+>4DB4
+ Start 	 End 	 Sequence	 Length 	 Score
+0 	 3 	 GGG 	 3 	 3.0
+4 	 7 	 GGG 	 3 	 3.0

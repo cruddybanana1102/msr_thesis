@@ -1,0 +1,2 @@
+>1MY9
+ Start 	 End 	 Sequence	 Length 	 Score

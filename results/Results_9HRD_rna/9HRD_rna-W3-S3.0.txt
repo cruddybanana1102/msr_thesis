@@ -1,0 +1,6 @@
+>9HRD
+ Start 	 End 	 Sequence	 Length 	 Score
+38 	 41 	 GGG 	 3 	 4.0
+39 	 42 	 GGG 	 3 	 4.0
+59 	 62 	 GGG 	 3 	 3.0
+64 	 67 	 CCC 	 3 	 -3.0

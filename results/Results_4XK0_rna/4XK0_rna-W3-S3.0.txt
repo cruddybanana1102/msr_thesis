@@ -1,0 +1,4 @@
+>4XK0
+ Start 	 End 	 Sequence	 Length 	 Score
+1 	 4 	 GGG 	 3 	 4.0
+2 	 5 	 GGG 	 3 	 4.0

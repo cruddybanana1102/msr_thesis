@@ -1,0 +1,6 @@
+>7SXP
+ Start 	 End 	 Sequence	 Length 	 Score
+3 	 6 	 GGG 	 3 	 3.0
+7 	 10 	 GGG 	 3 	 3.0
+11 	 14 	 GGG 	 3 	 3.0
+17 	 20 	 GGG 	 3 	 3.0

@@ -1,0 +1,3 @@
+>9WHV
+ Start 	 End 	 Sequence	 Length 	 Score
+4 	 7 	 GGG 	 3 	 3.0

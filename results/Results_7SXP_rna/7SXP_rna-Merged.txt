@@ -1,0 +1,5 @@
+>7SXP
+Start	End	Sequence	Length	Score	NBR
+3 	 6 	 GGG 	 3 	 3.0
+7 	 10 	 GGG 	 3 	 3.0
+11 	 15 	 GGGU 	 4 	 2.25	3

@@ -1,0 +1,3 @@
+>2GRB
+ Start 	 End 	 Sequence	 Length 	 Score
+0 	 3 	 GGG 	 3 	 3.0

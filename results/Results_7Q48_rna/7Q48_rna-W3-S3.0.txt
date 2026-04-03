@@ -1,0 +1,6 @@
+>7Q48
+ Start 	 End 	 Sequence	 Length 	 Score
+0 	 3 	 GGG 	 3 	 3.0
+8 	 11 	 GGG 	 3 	 3.0
+12 	 15 	 GGG 	 3 	 3.0
+19 	 22 	 GGG 	 3 	 3.0

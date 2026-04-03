@@ -1,0 +1,3 @@
+>4XK0
+Start	End	Sequence	Length	Score	NBR
+1 	 5 	 GGGG 	 4 	 4.0	1

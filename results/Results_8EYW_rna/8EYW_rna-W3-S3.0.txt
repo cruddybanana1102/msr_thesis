@@ -1,0 +1,4 @@
+>8EYW
+ Start 	 End 	 Sequence	 Length 	 Score
+5 	 8 	 GGG 	 3 	 3.0
+15 	 18 	 GGG 	 3 	 3.0

@@ -1,0 +1,3 @@
+>4DB4
+Start	End	Sequence	Length	Score	NBR
+0 	 4 	 GGGC 	 4 	 2.0	1

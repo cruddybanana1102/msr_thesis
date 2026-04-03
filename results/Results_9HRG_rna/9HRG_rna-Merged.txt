@@ -1,0 +1,4 @@
+>9HRG
+Start	End	Sequence	Length	Score	NBR
+0 	 3 	 GGG 	 3 	 3.0
+39 	 44 	 GGGGU 	 5 	 3.2	2
