@@ -1,0 +1,521 @@
+LOCUS       NM_012104               5832 bp    mRNA    linear   PRI 20-DEC-2003
+DEFINITION  Homo sapiens beta-site APP-cleaving enzyme (BACE), transcript
+            variant a, mRNA.
+ACCESSION   NM_012104
+VERSION     NM_012104.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5832)
+  AUTHORS   Hussain,I., Hawkins,J., Shikotra,A., Riddell,D.R., Faller,A. and
+            Dingwall,C.
+  TITLE     Characterization of the ectodomain shedding of the beta-site
+            amyloid precursor protein-cleaving enzyme 1 (BACE1)
+  JOURNAL   J. Biol. Chem. 278 (38), 36264-36268 (2003)
+   PUBMED   12857759
+  REMARK    GeneRIF: BACE1 sheddase is distinct from alpha-secretase and,
+            inhibition of BACE1 shedding does not influence amyloid precursor
+            protein processing at the beta-site
+REFERENCE   2  (bases 1 to 5832)
+  AUTHORS   Basi,G., Frigon,N., Barbour,R., Doan,T., Gordon,G., McConlogue,L.,
+            Sinha,S. and Zeller,M.
+  TITLE     Antagonistic effects of beta-site amyloid precursor
+            protein-cleaving enzymes 1 and 2 on beta-amyloid peptide production
+            in cells
+  JOURNAL   J. Biol. Chem. 278 (34), 31512-31520 (2003)
+   PUBMED   12801932
+  REMARK    GeneRIF: antagonistic effect with beta-site amyloid precursor
+            protein-cleaving enzyme 2 on beta-amyloid peptide production in
+            cells
+REFERENCE   3  (bases 1 to 5832)
+  AUTHORS   Clarimon,J., Bertranpetit,J., Calafell,F., Boada,M., Tarraga,L. and
+            Comas,D.
+  TITLE     Association study between Alzheimer's disease and genes involved in
+            Abeta biosynthesis, aggregation and degradation: suggestive results
+            with BACE1
+  JOURNAL   J. Neurol. 250 (8), 956-961 (2003)
+   PUBMED   12928915
+  REMARK    GeneRIF: These data suggest a possible genetic relation between
+            BACE1 and AD.
+REFERENCE   4  (bases 1 to 5832)
+  AUTHORS   Kirschling,C.M., Kolsch,H., Frahnert,C., Rao,M.L., Maier,W. and
+            Heun,R.
+  TITLE     Polymorphism in the BACE gene influences the risk for Alzheimer's
+            disease
+  JOURNAL   Neuroreport 14 (9), 1243-1246 (2003)
+   PUBMED   12824768
+  REMARK    GeneRIF: BACE exon 5 polymorphism plays an important role in the
+            development of Alzheimer's disease, possibly by influencing
+            Abeta(42) protein levels.
+REFERENCE   5  (bases 1 to 5832)
+  AUTHORS   Shi,X.P., Tugusheva,K., Bruce,J.E., Lucka,A., Wu,G.X.,
+            Chen-Dodson,E., Price,E., Li,Y., Xu,M., Huang,Q., Sardana,M.K. and
+            Hazuda,D.J.
+  TITLE     Beta-secretase cleavage at amino acid residue 34 in the amyloid
+            beta peptide is dependent upon gamma-secretase activity
+  JOURNAL   J. Biol. Chem. 278 (23), 21286-21294 (2003)
+   PUBMED   12665519
+  REMARK    GeneRIF: gamma-secretase cleavage of CT99 is a prerequisite for
+            BACE-mediated processing at Abeta-34 site and therefore, BACE and
+            gamma-secretase activity can be mutually dependent.
+REFERENCE   6  (bases 1 to 5832)
+  AUTHORS   Puglielli,L., Ellis,B.C., Saunders,A.J. and Kovacs,D.M.
+  TITLE     Ceramide stabilizes beta-site amyloid precursor protein-cleaving
+            enzyme 1 and promotes amyloid beta-peptide biogenesis
+  JOURNAL   J. Biol. Chem. 278 (22), 19777-19783 (2003)
+   PUBMED   12649271
+  REMARK    GeneRIF: stabilization by ceramide and role in amyloid
+            beta-pepetide biogenesis
+REFERENCE   7  (bases 1 to 5832)
+  AUTHORS   Kametaka,S., Shibata,M., Moroe,K., Kanamori,S., Ohsawa,Y.,
+            Waguri,S., Sims,P.J., Emoto,K., Umeda,M. and Uchiyama,Y.
+  TITLE     Identification of phospholipid scramblase 1 as a novel interacting
+            molecule with beta -secretase (beta -site amyloid precursor protein
+            (APP) cleaving enzyme (BACE))
+  JOURNAL   J. Biol. Chem. 278 (17), 15239-15245 (2003)
+   PUBMED   12586838
+  REMARK    GeneRIF: Identification of domains for PLSCR1 and BACE binding and
+            their colocalization in the Golgi area and endosomal compartments
+            suggest involvement of PLSCR1 in the intracellular distribution
+            and/or recruitment of BACE into the lipid raft.
+REFERENCE   8  (bases 1 to 5832)
+  AUTHORS   Fluhrer,R., Multhaup,G., Schlicksupp,A., Okochi,M., Takeda,M.,
+            Lammich,S., Willem,M., Westmeyer,G., Bode,W., Walter,J. and
+            Haass,C.
+  TITLE     Identification of a beta-secretase activity, which truncates
+            amyloid beta-peptide after its presenilin-dependent generation
+  JOURNAL   J. Biol. Chem. 278 (8), 5531-5538 (2003)
+   PUBMED   12471021
+  REMARK    GeneRIF: An isoenzyme specifically truncates amyloid beta-peptide
+            after its presenilin-dependent generation.
+REFERENCE   9  (bases 1 to 5832)
+  AUTHORS   Vattemi,G., Engel,W.K., McFerrin,J., Pastorino,L., Buxbaum,J.D. and
+            Askanas,V.
+  TITLE     BACE1 and BACE2 in pathologic and normal human muscle
+  JOURNAL   Exp. Neurol. 179 (2), 150-158 (2003)
+   PUBMED   12618121
+  REMARK    GeneRIF: BACE1 and BACE2 (a) are expressed in normal adult muscle
+            at the postsynaptic domain of neuromuscular junctions, and in
+            cultured human muscle; (b) accumulate in the form of plaque-like
+            inclusions in myositis vacuolated and necrotic muscle fibers
+REFERENCE   10 (bases 1 to 5832)
+  AUTHORS   Liu,H.C., Leu,S.J., Chang,J.G., Sung,S.M., Hsu,W.C., Lee,L.S. and
+            Hu,C.J.
+  TITLE     The association of beta-site APP cleaving enzyme (BACE) C786G
+            polymorphism with Alzheimer's disease
+  JOURNAL   Brain Res. 961 (1), 88-91 (2003)
+   PUBMED   12535780
+  REMARK    GeneRIF: The association of beta-site APP cleaving enzyme (BACE)
+            C786G polymorphism with Alzheimer's disease. No significant
+            association of this polymorphism with the occurrence of AD can be
+            established.
+REFERENCE   11 (bases 1 to 5832)
+  AUTHORS   Yang,L.B., Lindholm,K., Yan,R., Citron,M., Xia,W., Yang,X.L.,
+            Beach,T., Sue,L., Wong,P., Price,D., Li,R. and Shen,Y.
+  TITLE     Elevated beta-secretase expression and enzymatic activity detected
+            in sporadic Alzheimer disease
+  JOURNAL   Nat. Med. 9 (1), 3-4 (2003)
+   PUBMED   12514700
+  REMARK    GeneRIF: elevated expression and enzymatic activity in the brain of
+            sporadic Alzheimer disease patients
+REFERENCE   12 (bases 1 to 5832)
+  AUTHORS   Tyler,S.J., Dawbarn,D., Wilcock,G.K. and Allen,S.J.
+  TITLE     alpha- and beta-secretase: profound changes in Alzheimer's disease
+  JOURNAL   Biochem. Biophys. Res. Commun. 299 (3), 373-376 (2002)
+   PUBMED   12445809
+  REMARK    GeneRIF: Results describe a decrease in alpha-secretase (81% of
+            normal) and a large increase in beta-secretase activity (185%) in
+            sporadic Alzheimer's disease temporal cortex.
+REFERENCE   13 (bases 1 to 5832)
+  AUTHORS   Gatta,L.B., Albertini,A., Ravid,R. and Finazzi,D.
+  TITLE     Levels of beta-secretase BACE and alpha-secretase ADAM10 mRNAs in
+            Alzheimer hippocampus
+  JOURNAL   Neuroreport 13 (16), 2031-2033 (2002)
+   PUBMED   12438920
+  REMARK    GeneRIF: BACE mRNA amounts were similar in the hippocampus and
+            cerebellum of Alzheimer's patients and controls.
+REFERENCE   14 (bases 1 to 5832)
+  AUTHORS   Hong,L., Turner,R.T. III, Koelsch,G., Shin,D., Ghosh,A.K. and
+            Tang,J.
+  TITLE     Crystal structure of memapsin 2 (beta-secretase) in complex with an
+            inhibitor OM00-3
+  JOURNAL   Biochemistry 41 (36), 10963-10967 (2002)
+   PUBMED   12206667
+  REMARK    GeneRIF: Crystal structure analysis of memapsin-2 catalytic unit
+            complexed with its inhibitor OM00-3 defines locations and functions
+            of new binding pockets S3' and S4'.
+REFERENCE   15 (bases 1 to 5832)
+  AUTHORS   Fukumoto,H., Cheung,B.S., Hyman,B.T. and Irizarry,M.C.
+  TITLE     Beta-secretase protein and activity are increased in the neocortex
+            in Alzheimer disease
+  JOURNAL   Arch. Neurol. 59 (9), 1381-1389 (2002)
+   PUBMED   12223024
+  REMARK    GeneRIF: Activity levels are increased in brain regions affected by
+            amyloid deposition and remain increased despite significant
+            neuronal and synaptic loss in Alzheimer disease
+REFERENCE   16 (bases 1 to 5832)
+  AUTHORS   Tamagno,E., Bardini,P., Obbili,A., Vitali,A., Borghi,R.,
+            Zaccheo,D., Pronzato,M.A., Danni,O., Smith,M.A., Perry,G. and
+            Tabaton,M.
+  TITLE     Oxidative stress increases expression and activity of BACE in NT2
+            neurons
+  JOURNAL   Neurobiol. Dis. 10 (3), 279-288 (2002)
+   PUBMED   12270690
+  REMARK    GeneRIF: Oxidative stress induces increased BACE protein levels and
+            activity in NT2 neurons accompanied by an increase in amyloid beta
+            protein precursor.
+REFERENCE   17 (bases 1 to 5832)
+  AUTHORS   He,X., Chang,W.P., Koelsch,G. and Tang,J.
+  TITLE     Memapsin 2 (beta-secretase) cytosolic domain binds to the VHS
+            domains of GGA1 and GGA2: implications on the endocytosis mechanism
+            of memapsin 2
+  JOURNAL   FEBS Lett. 524 (1-3), 183-187 (2002)
+   PUBMED   12135764
+  REMARK    GeneRIF: endocytosis and intracellular transport of memapsin 2,
+            mediated by its cytosolic domain, may involve the binding of GGA1
+            and GGA2
+REFERENCE   18 (bases 1 to 5832)
+  AUTHORS   Turner,R.T. III, Loy,J.A., Nguyen,C., Devasamudram,T., Ghosh,A.K.,
+            Koelsch,G. and Tang,J.
+  TITLE     Specificity of memapsin 1 and its implications on the design of
+            memapsin 2 (beta-secretase) inhibitor selectivity
+  JOURNAL   Biochemistry 41 (27), 8742-8746 (2002)
+   PUBMED   12093293
+  REMARK    GeneRIF: Specificity of memapsin 1 and its implications on the
+            design of memapsin 2 (beta-secretase) inhibitor selectivity
+REFERENCE   19 (bases 1 to 5832)
+  AUTHORS   Holsinger,R.M., McLean,C.A., Beyreuther,K., Masters,C.L. and
+            Evin,G.
+  TITLE     Increased expression of the amyloid precursor beta-secretase in
+            Alzheimer's disease
+  JOURNAL   Ann. Neurol. 51 (6), 783-786 (2002)
+   PUBMED   12112088
+  REMARK    GeneRIF: Results show an increase in protein expression of BACE in
+            the cortex of Alzheimer's disease patients compared to age-matched
+            controls
+REFERENCE   20 (bases 1 to 5832)
+  AUTHORS   Hattori,C., Asai,M., Oma,Y., Kino,Y., Sasagawa,N., Saido,T.C.,
+            Maruyama,K. and Ishiura,S.
+  TITLE     BACE1 interacts with nicastrin
+  JOURNAL   Biochem. Biophys. Res. Commun. 293 (4), 1228-1232 (2002)
+   PUBMED   12054507
+  REMARK    GeneRIF: BACE1 interacts with nicastrin
+REFERENCE   21 (bases 1 to 5832)
+  AUTHORS   Huse,J.T., Liu,K., Pijak,D.S., Carlin,D., Lee,V.M. and Doms,R.W.
+  TITLE     Beta-secretase processing in the trans-Golgi network preferentially
+            generates truncated amyloid species that accumulate in Alzheimer's
+            disease brain
+  JOURNAL   J. Biol. Chem. 277 (18), 16278-16284 (2002)
+   PUBMED   11847218
+  REMARK    GeneRIF: Intracellular localization of BACE affects sleavage site
+            specificity; processing in the trans-Golgi network preferentially
+            generates truncated amyloid species that accumulate in Alzheimer's
+            disease brain
+REFERENCE   22 (bases 1 to 5832)
+  AUTHORS   Chou,K.C. and Howe,W.J.
+  TITLE     Prediction of the tertiary structure of the beta-secretase zymogen
+  JOURNAL   Biochem. Biophys. Res. Commun. 292 (3), 702-708 (2002)
+   PUBMED   11922623
+  REMARK    GeneRIF: A model of the three-dimensional structure of the
+            beta-secretase zymogen has been constructed.
+REFERENCE   23 (bases 1 to 5832)
+  AUTHORS   Gruninger-Leitch,F., Schlatter,D., Kung,E., Nelbock,P. and
+            Dobeli,H.
+  TITLE     Substrate and inhibitor profile of BACE (beta-secretase) and
+            comparison with other mammalian aspartic proteases
+  JOURNAL   J. Biol. Chem. 277 (7), 4687-4693 (2002)
+   PUBMED   11741910
+  REMARK    GeneRIF: BACE has a loose substrate specificity and the substrate
+            recognition site in BACE extends over several amino acids
+REFERENCE   24 (bases 1 to 5832)
+  AUTHORS   Pastorino,L., Ikin,A.F., Nairn,A.C., Pursnani,A. and Buxbaum,J.D.
+  TITLE     The carboxyl-terminus of BACE contains a sorting signal that
+            regulates BACE trafficking but not the formation of total A(beta)
+  JOURNAL   Mol. Cell. Neurosci. 19 (2), 175-185 (2002)
+   PUBMED   11860271
+  REMARK    GeneRIF: Our data are consistent with a role for the cytoplasmic
+            domain in regulating BACE trafficking and localization.
+REFERENCE   25 (bases 1 to 5832)
+  AUTHORS   McPhie,D.L., Golde,T., Eckman,C.B., Yager,D., Brant,J.B. and
+            Neve,R.L.
+  TITLE     beta-Secretase cleavage of the amyloid precursor protein mediates
+            neuronal apoptosis caused by familial Alzheimer's disease mutations
+  JOURNAL   Brain Res. Mol. Brain Res. 97 (1), 103-113 (2001)
+   PUBMED   11744168
+  REMARK    GeneRIF: beta-Secretase cleavage of the amyloid precursor protein
+            mediates neuronal apoptosis caused by familial ALzheimer's disease
+            mutations.
+REFERENCE   26 (bases 1 to 5832)
+  AUTHORS   Yan,R., Han,P., Miao,H., Greengard,P. and Xu,H.
+  TITLE     The transmembrane domain of the Alzheimer's beta-secretase (BACE1)
+            determines its late Golgi localization and access to beta -amyloid
+            precursor protein (APP) substrate
+  JOURNAL   J. Biol. Chem. 276 (39), 36788-36796 (2001)
+   PUBMED   11466313
+  REMARK    GeneRIF: BACE1 is in the distal Golgi membrane with a minor
+            presence in the endoplasmic reticulum, endosomes, and plasma
+            membrane in human neuroblastoma SHEP cells and in mouse Neuro-2a
+            cell lines
+REFERENCE   27 (bases 1 to 5832)
+  AUTHORS   Tanahashi,H. and Tabira,T.
+  TITLE     Three novel alternatively spliced isoforms of the human beta-site
+            amyloid precursor protein cleaving enzyme (BACE) and their effect
+            on amyloid beta-peptide production
+  JOURNAL   Neurosci. Lett. 307 (1), 9-12 (2001)
+   PUBMED   11516562
+REFERENCE   28 (bases 1 to 5832)
+  AUTHORS   Hong,L., Koelsch,G., Lin,X., Wu,S., Terzyan,S., Ghosh,A.K.,
+            Zhang,X.C. and Tang,J.
+  TITLE     Structure of the protease domain of memapsin 2 (beta-secretase)
+            complexed with inhibitor
+  JOURNAL   Science 290 (5489), 150-153 (2000)
+   PUBMED   11021803
+REFERENCE   29 (bases 1 to 5832)
+  AUTHORS   Haniu,M., Denis,P., Young,Y., Mendiaz,E.A., Fuller,J., Hui,J.O.,
+            Bennett,B.D., Kahn,S., Ross,S., Burgess,T., Katta,V., Rogers,G.,
+            Vassar,R. and Citron,M.
+  TITLE     Characterization of Alzheimer's beta -secretase protein BACE. A
+            pepsin family member with unusual properties
+  JOURNAL   J. Biol. Chem. 275 (28), 21099-21106 (2000)
+   PUBMED   10887202
+REFERENCE   30 (bases 1 to 5832)
+  AUTHORS   Lin,X., Koelsch,G., Wu,S., Downs,D., Dashti,A. and Tang,J.
+  TITLE     Human aspartic protease memapsin 2 cleaves the beta-secretase site
+            of beta-amyloid precursor protein
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 97 (4), 1456-1460 (2000)
+   PUBMED   10677483
+REFERENCE   31 (bases 1 to 5832)
+  AUTHORS   Sinha,S., Anderson,J.P., Barbour,R., Basi,G.S., Caccavello,R.,
+            Davis,D., Doan,M., Dovey,H.F., Frigon,N., Hong,J.,
+            Jacobson-Croak,K., Jewett,N., Keim,P., Knops,J., Lieberburg,I.,
+            Power,M., Tan,H., Tatsuno,G., Tung,J., Schenk,D., Seubert,P.,
+            Suomensaari,S.M., Wang,S., Walker,D., John,V. et al.
+  TITLE     Purification and cloning of amyloid precursor protein
+            beta-secretase from human brain
+  JOURNAL   Nature 402 (6761), 537-540 (1999)
+   PUBMED   10591214
+REFERENCE   32 (bases 1 to 5832)
+  AUTHORS   Yan,R., Bienkowski,M.J., Shuck,M.E., Miao,H., Tory,M.C.,
+            Pauley,A.M., Brashier,J.R., Stratman,N.C., Mathews,W.R., Buhl,A.E.,
+            Carter,D.B., Tomasselli,A.G., Parodi,L.A., Heinrikson,R.L. and
+            Gurney,M.E.
+  TITLE     Membrane-anchored aspartyl protease with Alzheimer's disease
+            beta-secretase activity
+  JOURNAL   Nature 402 (6761), 533-537 (1999)
+   PUBMED   10591213
+REFERENCE   33 (bases 1 to 5832)
+  AUTHORS   Hussain,I., Powell,D., Howlett,D.R., Tew,D.G., Meek,T.D.,
+            Chapman,C., Gloger,I.S., Murphy,K.E., Southan,C.D., Ryan,D.M.,
+            Smith,T.S., Simmons,D.L., Walsh,F.S., Dingwall,C. and Christie,G.
+  TITLE     Identification of a novel aspartic protease (Asp 2) as
+            beta-secretase
+  JOURNAL   Mol. Cell. Neurosci. 14 (6), 419-427 (1999)
+   PUBMED   10656250
+REFERENCE   34 (bases 1 to 5832)
+  AUTHORS   Vassar,R., Bennett,B.D., Babu-Khan,S., Kahn,S., Mendiaz,E.A.,
+            Denis,P., Teplow,D.B., Ross,S., Amarante,P., Loeloff,R., Luo,Y.,
+            Fisher,S., Fuller,J., Edenson,S., Lile,J., Jarosinski,M.A.,
+            Biere,A.L., Curran,E., Burgess,T., Louis,J.C., Collins,F.,
+            Treanor,J., Rogers,G. and Citron,M.
+  TITLE     Beta-secretase cleavage of Alzheimer's amyloid precursor protein by
+            the transmembrane aspartic protease BACE
+  JOURNAL   Science 286 (5440), 735-741 (1999)
+   PUBMED   10531052
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AF201468.1 and BM996673.1.
+            
+            [WARNING] On Apr 7, 2004 this sequence was replaced by NM_012104.3.
+            
+            On May 21, 2002 this sequence version replaced NM_012104.1.
+            
+            Summary: Cerebral deposition of amyloid beta peptide is an early
+            and critical feature of Alzheimer's disease. Amyloid beta peptide
+            is generated by proteolytic cleavage of amyloid precursor protein
+            (APP) by two proteases, one of which is the protein encoded by this
+            gene. The encoded protein, a member of the peptidase A1 protein
+            family, is a type I integral membrane glycoprotein and aspartic
+            protease that is found mainly in the Golgi. Four transcript
+            variants encoding different isoforms have been described for this
+            gene.
+            
+            Transcript Variant: This variant (a) is the longest transcript and
+            encodes the full-length isoform A.
+            COMPLETENESS: complete on the 3' end.
+FEATURES             Location/Qualifiers
+     source          1..5832
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11q23.2-q23.3"
+     gene            1..5832
+                     /gene="BACE"
+                     /gene_synonym="ASP2; BACE1; HSPC104; KIAA1149"
+                     /db_xref="GeneID:23621"
+                     /db_xref="MIM:604252"
+     CDS             447..1952
+                     /gene="BACE"
+                     /gene_synonym="ASP2; BACE1; HSPC104; KIAA1149"
+                     /GO_component="GO:0005887 - integral to plasma membrane
+                     [Evidence E]; GO:0005624 - membrane fraction [Evidence
+                     NR]"
+                     /GO_function="GO:0008798 - beta-aspartyl-peptidase
+                     activity [Evidence E] [PMID 10591214]"
+                     /GO_process="GO:0009405 - pathogenesis [Evidence E] [PMID
+                     10531052]; GO:0006508 - proteolysis and peptidolysis
+                     [Evidence E] [PMID 10591214]"
+                     /note="isoform A preproprotein is encoded by transcript
+                     variant a; beta-site amyloid beta A4 precursor
+                     protein-cleaving enzyme; APP beta-secretase; aspartyl
+                     protease 2; beta-site amyloid precursor protein cleaving
+                     enzyme; memapsin-2; membrane-associated aspartic protease
+                     2; transmembrane aspartic proteinase Asp2"
+                     /codon_start=1
+                     /product="beta-site APP-cleaving enzyme 1 isoform A
+                     preproprotein"
+                     /protein_id="NP_036236.1"
+                     /db_xref="GeneID:23621"
+                     /db_xref="MIM:604252"
+                     /translation="MAQALPWLLLWMGAGVLPAHGTQHGIRLPLRSGLGGAPLGLRLP
+                     RETDEEPEEPGRRGSFVEMVDNLRGKSGQGYYVEMTVGSPPQTLNILVDTGSSNFAVG
+                     AAPHPFLHRYYQRQLSSTYRDLRKGVYVPYTQGKWEGELGTDLVSIPHGPNVTVRANI
+                     AAITESDKFFINGSNWEGILGLAYAEIARPDDSLEPFFDSLVKQTHVPNLFSLQLCGA
+                     GFPLNQSEVLASVGGSMIIGGIDHSLYTGSLWYTPIRREWYYEVIIVRVEINGQDLKM
+                     DCKEYNYDKSIVDSGTTNLRLPKKVFEAAVKSIKAASSTEKFPDGFWLGEQLVCWQAG
+                     TTPWNIFPVISLYLMGEVTNQSFRITILPQQYLRPVEDVATSQDDCYKFAISQSSTGT
+                     VMGAVIMEGFYVVFDRARKRIGFAVSACHVHDEFRTAAVEGPFVTLDMEDCGYNIPQT
+                     DESTLMTIAYVMAAICALFMLPLCLMVCQWRCLRCLRQQHDDFADDISLLK"
+     sig_peptide     447..509
+                     /gene="BACE"
+                     /gene_synonym="ASP2; BACE1; HSPC104; KIAA1149"
+     mat_peptide     582..1949
+                     /gene="BACE"
+                     /gene_synonym="ASP2; BACE1; HSPC104; KIAA1149"
+                     /product="beta-site APP-cleaving enzyme 1, isoform A"
+     misc_feature    510..1949
+                     /gene="BACE"
+                     /gene_synonym="ASP2; BACE1; HSPC104; KIAA1149"
+                     /note="beta-site APP-cleaving enzyme 1, isoform A
+                     proprotein"
+     regulatory      3686..3691
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="BACE"
+                     /gene_synonym="ASP2; BACE1; HSPC104; KIAA1149"
+     polyA_site      3708
+                     /gene="BACE"
+                     /gene_synonym="ASP2; BACE1; HSPC104; KIAA1149"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+     polyA_site      5820
+                     /gene="BACE"
+                     /gene_synonym="ASP2; BACE1; HSPC104; KIAA1149"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+     polyA_site      5832
+                     /gene="BACE"
+                     /gene_synonym="ASP2; BACE1; HSPC104; KIAA1149"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+ORIGIN      
+        1 tccccagccc gcccgggagc tgcgagccgc gagctggatt atggtggcct gagcagccaa
+       61 cgcagccgca ggagcccgga gcccttgccc ctgcccgcgc cgccgcccgc cggggggacc
+      121 agggaagccg ccaccggccc gccatgcccg cccctcccag ccccgccggg agcccgcgcc
+      181 cgctgcccag gctggccgcc gccgtgccga tgtagcgggc tccggatccc agcctctccc
+      241 ctgctcccgt gctctgcgga tctcccctga ccgctctcca cagcccggac ccgggggctg
+      301 gcccagggcc ctgcaggccc tggcgtcctg atgcccccaa gctccctctc ctgagaagcc
+      361 accagcacca cccagacttg ggggcaggcg ccagggacgg acgtgggcca gtgcgagccc
+      421 agagggcccg aaggccgggg cccaccatgg cccaagccct gccctggctc ctgctgtgga
+      481 tgggcgcggg agtgctgcct gcccacggca cccagcacgg catccggctg cccctgcgca
+      541 gcggcctggg gggcgccccc ctggggctgc ggctgccccg ggagaccgac gaagagcccg
+      601 aggagcccgg ccggaggggc agctttgtgg agatggtgga caacctgagg ggcaagtcgg
+      661 ggcagggcta ctacgtggag atgaccgtgg gcagcccccc gcagacgctc aacatcctgg
+      721 tggatacagg cagcagtaac tttgcagtgg gtgctgcccc ccaccccttc ctgcatcgct
+      781 actaccagag gcagctgtcc agcacatacc gggacctccg gaagggtgtg tatgtgccct
+      841 acacccaggg caagtgggaa ggggagctgg gcaccgacct ggtaagcatc ccccatggcc
+      901 ccaacgtcac tgtgcgtgcc aacattgctg ccatcactga atcagacaag ttcttcatca
+      961 acggctccaa ctgggaaggc atcctggggc tggcctatgc tgagattgcc aggcctgacg
+     1021 actccctgga gcctttcttt gactctctgg taaagcagac ccacgttccc aacctcttct
+     1081 ccctgcagct ttgtggtgct ggcttccccc tcaaccagtc tgaagtgctg gcctctgtcg
+     1141 gagggagcat gatcattgga ggtatcgacc actcgctgta cacaggcagt ctctggtata
+     1201 cacccatccg gcgggagtgg tattatgagg tcatcattgt gcgggtggag atcaatggac
+     1261 aggatctgaa aatggactgc aaggagtaca actatgacaa gagcattgtg gacagtggca
+     1321 ccaccaacct tcgtttgccc aagaaagtgt ttgaagctgc agtcaaatcc atcaaggcag
+     1381 cctcctccac ggagaagttc cctgatggtt tctggctagg agagcagctg gtgtgctggc
+     1441 aagcaggcac caccccttgg aacattttcc cagtcatctc actctaccta atgggtgagg
+     1501 ttaccaacca gtccttccgc atcaccatcc ttccgcagca atacctgcgg ccagtggaag
+     1561 atgtggccac gtcccaagac gactgttaca agtttgccat ctcacagtca tccacgggca
+     1621 ctgttatggg agctgttatc atggagggct tctacgttgt ctttgatcgg gcccgaaaac
+     1681 gaattggctt tgctgtcagc gcttgccatg tgcacgatga gttcaggacg gcagcggtgg
+     1741 aaggcccttt tgtcaccttg gacatggaag actgtggcta caacattcca cagacagatg
+     1801 agtcaaccct catgaccata gcctatgtca tggctgccat ctgcgccctc ttcatgctgc
+     1861 cactctgcct catggtgtgt cagtggcgct gcctccgctg cctgcgccag cagcatgatg
+     1921 actttgctga tgacatctcc ctgctgaagt gaggaggccc atgggcagaa gatagagatt
+     1981 cccctggacc acacctccgt ggttcacttt ggtcacaagt aggagacaca gatggcacct
+     2041 gtggccagag cacctcagga ccctccccac ccaccaaatg cctctgcctt gatggagaag
+     2101 gaaaaggctg gcaaggtggg ttccagggac tgtacctgta ggaaacagaa aagagaagaa
+     2161 agaagcactc tgctggcggg aatactcttg gtcacctcaa atttaagtcg ggaaattctg
+     2221 ctgcttgaaa cttcagccct gaacctttgt ccaccattcc tttaaattct ccaacccaaa
+     2281 gtattcttct tttcttagtt tcagaagtac tggcatcaca cgcaggttac cttggcgtgt
+     2341 gtccctgtgg taccctggca gagaagagac caagcttgtt tccctgctgg ccaaagtcag
+     2401 taggagagga tgcacagttt gctatttgct ttagagacag ggactgtata aacaagccta
+     2461 acattggtgc aaagattgcc tcttgaatta aaaaaaaaaa ctagattgac tatttataca
+     2521 aatgggggcg gctggaaaga ggagaaggag agggagtaca aagacaggga atagtgggat
+     2581 caaagctagg aaaggcagaa acacaaccac tcaccagtcc tagttttaga cctcatctcc
+     2641 aagatagcat cccatctcag aagatgggtg ttgttttcaa tgttttcttt tctgtggttg
+     2701 cagcctgacc aaaagtgaga tgggaagggc ttatctagcc aaagagctct tttttagctc
+     2761 tcttaaatga agtgcccact aagaagttcc acttaacaca tgaatttctg ccatattaat
+     2821 ttcattgtct ctatctgaac caccctttat tctacatatg ataggcagca ctgaaatatc
+     2881 ctaaccccct aagctccagg tgccctgtgg gagagcaact ggactatagc agggctgggc
+     2941 tctgtcttcc tggtcatagg ctcactcttt cccccaaatc ttcctctgga gctttgcagc
+     3001 caaggtgcta aaaggaatag gtaggagacc tcttctatct aatccttaaa agcataatgt
+     3061 tgaacattca ttcaacagct gatgccctat aacccctgcc tggatttctt cctattaggc
+     3121 tataagaagt agcaagatct ttacataatt cagagtggtt tcactgcctt cctaccctct
+     3181 ctaatggccc ctccatttat ttgactaaag catcacacag tggcactagc attataccaa
+     3241 gagtatgaga aatacagtgc tttatggctc taacattact gccttcagta tcaaggctgc
+     3301 ctggagaaag gatggcagcc tcagggcttc cttatgtcct ccaccacaag agctccttga
+     3361 tgaaggtcat ctttttcccc tatcctgttc ttcccctccc cgctcctaat ggtacgtggg
+     3421 tacccaggct ggttcttggg ctaggtagtg gggaccaagt tcattacctc cctatcagtt
+     3481 ctagcatagt aaactacggt accagtgtta gtgggaagag ctgggttttc ctagtatacc
+     3541 cactgcatcc tactcctacc tggtcaaccc gctgcttcca ggtatgggac ctgctaagtg
+     3601 tggaattacc tgataaggga gagggaaata caaggagggc ctctggtgtt cctggcctca
+     3661 gccagctgcc cacaagccat aaaccaataa aacaagaata ctgagtcagt tttttatctg
+     3721 ggttctcttc attcccactg cacttggtgc tgctttggct gactgggaac accccataac
+     3781 tacagagtct gacaggaaga ctggagactg tccacttcta gctcggaact tactgtgtaa
+     3841 ataaactttc agaactgcta ccatgaagtg aaaatgccac attttgcttt ataatttcta
+     3901 cccatgttgg gaaaaactgg ctttttccca gccctttcca gggcataaaa ctcaacccct
+     3961 tcgatagcaa gtcccatcag cctattattt ttttaaagaa aacttgcact tgtttttctt
+     4021 tttacagtta cttccttcct gccccaaaat tataaactct aagtgtaaaa aaaagtctta
+     4081 acaacagctt cttgcttgta aaaatatgta ttatacatct gtatttttaa attctgctcc
+     4141 tgaaaaatga ctgtcccatt ctccactcac tgcatttggg gcctttccca ttggtctgca
+     4201 tgtcttttat cattgcaggc cagtggacag agggagaagg gagaacaggg gtcgccaaca
+     4261 cttgtgttgc tttctgactg atcctgaaca agaaagagta acactgaggc gctcgctccc
+     4321 atgcacaact ctccaaaaca cttatcctcc tgcaagagtg ggctttccag ggtctttact
+     4381 gggaagcagt taagccccct cctcacccct tccttttttc tttctttact cctttggctt
+     4441 caaaggattt tggaaaagaa acaatatgct ttacactcat tttcaatttc taaatttgca
+     4501 ggggatactg aaaaatacgg caggtggcct aaggctgctg taaagttgag gggagaggaa
+     4561 atcttaagat tacaagataa aaaacgaatc ccctaaacaa aaagaacaat agaactggtc
+     4621 ttccattttg ccacctttcc tgttcatgac agctactaac ctggagacag taacatttca
+     4681 ttaaccaaag aaagtgggtc acctgacctc tgaagagctg agtactcagg ccactccaat
+     4741 caccctacaa gatgccaagg aggtcccagg aagtccagct ccttaaactg acgctagtca
+     4801 ataaacctgg gcaagtgagg caagagaaat gaggaagaat ccatctgtga ggtgacaggc
+     4861 aaggatgaaa gacaaagaag gaaaagagta tcaaaggcag aaaggagatc atttagttgg
+     4921 gtctgaaagg aaaagtcttt gctatccgac atgtactgct agtacctgta agcattttag
+     4981 gtcccagaat ggaaaaaaaa atcagctatt ggtaatataa taatgtcctt tccctggagt
+     5041 cagttttttt aaaaagttaa ctcttagttt ttacttgttt aattctaaaa gagaagggag
+     5101 ctgaggccat tccctgtagg agtaaagata aaaggatagg aaaagattca aagctctaat
+     5161 agagtcacag ctttcccagg tataaaacct aaaattaaga agtacaataa gcagaggtgg
+     5221 aaaatgatct agttcctgat agctacccac agagcaagtg atttataaat ttgaaatcca
+     5281 aactactttc ttaatatcac tttggtctcc atttttccca ggacaggaaa tatgtccccc
+     5341 cctaactttc ttgcttcaaa aattaaaatc cagcatccca agatcattct acaagtaatt
+     5401 ttgcacagac atctcctcac cccagtgcct gtctggagct cacccaaggt caccaaacaa
+     5461 cttggttgtg aaccaactgc cttaaccttc tgggggaggg ggattagcta gactaggaga
+     5521 ccagaagtga atgggaaagg gtgaggactt cacaatgttg gcctgtcaga gcttgattag
+     5581 aagccaagac agtggcagca aaggaagact tggcccagga aaaacctgtg ggttgtgcta
+     5641 atttctgtcc agaaaatagg gtggacagaa gcttgtgggg tacatggagg aattgggacc
+     5701 tggttatgtt gttattctcg gactgtgaat tttggtgatg taaaacagaa tattctgtaa
+     5761 acctaatgtc tgtataaata atgagcgtta acacagtaaa atattcaata agaagtcaaa
+     5821 ctactagggt ta
+//
+

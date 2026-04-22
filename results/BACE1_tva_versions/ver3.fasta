@@ -1,0 +1,313 @@
+LOCUS       NM_012104               5850 bp    mRNA    linear   PRI 15-MAY-2011
+DEFINITION  Homo sapiens beta-site APP-cleaving enzyme 1 (BACE1), transcript
+            variant a, mRNA.
+ACCESSION   NM_012104
+VERSION     NM_012104.3
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5850)
+  AUTHORS   Zhou,L., Chavez-Gutierrez,L., Bockstael,K., Sannerud,R.,
+            Annaert,W., May,P.C., Karran,E. and De Strooper,B.
+  TITLE     Inhibition of beta-secretase in vivo via antibody binding to unique
+            loops (D and F) of BACE1
+  JOURNAL   J. Biol. Chem. 286 (10), 8677-8687 (2011)
+   PUBMED   21209097
+  REMARK    GeneRIF: Inhibition of beta-secretase in vivo via antibody binding
+            to unique loops (D and F) of BACE1
+REFERENCE   2  (bases 1 to 5850)
+  AUTHORS   Patel,A., Rees,S.D., Kelly,M.A., Bain,S.C., Barnett,A.H.,
+            Thalitaya,D. and Prasher,V.P.
+  TITLE     Association of variants within APOE, SORL1, RUNX1, BACE1 and
+            ALDH18A1 with dementia in Alzheimer's disease in subjects with Down
+            syndrome
+  JOURNAL   Neurosci. Lett. 487 (2), 144-148 (2011)
+   PUBMED   20946940
+  REMARK    GeneRIF: Observational study of gene-disease association. (HuGE
+            Navigator)
+REFERENCE   3  (bases 1 to 5850)
+  AUTHORS   Miners,J.S., Morris,S., Love,S. and Kehoe,P.G.
+  TITLE     Accumulation of insoluble amyloid-beta in down's syndrome is
+            associated with increased BACE-1 and neprilysin activities
+  JOURNAL   J. Alzheimers Dis. 23 (1), 101-108 (2011)
+   PUBMED   20930275
+  REMARK    GeneRIF: This study demonistrated that in down's syndrome is
+            associated with increased bace-1 activity and accumulation of
+            insoluble amyloid beta proteon.
+REFERENCE   4  (bases 1 to 5850)
+  AUTHORS   Li,X., Bo,H., Zhang,X.C., Hartsuck,J.A. and Tang,J.
+  TITLE     Predicting memapsin 2 (beta-secretase) hydrolytic activity
+  JOURNAL   Protein Sci. 19 (11), 2175-2185 (2010)
+   PUBMED   20853423
+  REMARK    GeneRIF: The substrate-binding cleft of memapsin 2 accommodates 12
+            subsite residues, from P(8) to P(4)'. We have determined the
+            hydrolytic preference as relative k(cat)/K(M) (preference constant)
+            in all 12 subsites.
+REFERENCE   5  (bases 1 to 5850)
+  AUTHORS   Sjolander,A., Zetterberg,H., Andreasson,U., Minthon,L. and
+            Blennow,K.
+  TITLE     BACE1 gene variants do not influence BACE1 activity, levels of APP
+            or Abeta isoforms in CSF in Alzheimer's disease
+  JOURNAL   Mol Neurodegener 5, 37 (2010)
+   PUBMED   20849576
+  REMARK    GeneRIF: Observational study of gene-disease association. (HuGE
+            Navigator)
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 5850)
+  AUTHORS   Lin,X., Koelsch,G., Wu,S., Downs,D., Dashti,A. and Tang,J.
+  TITLE     Human aspartic protease memapsin 2 cleaves the beta-secretase site
+            of beta-amyloid precursor protein
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 97 (4), 1456-1460 (2000)
+   PUBMED   10677483
+REFERENCE   7  (bases 1 to 5850)
+  AUTHORS   Sinha,S., Anderson,J.P., Barbour,R., Basi,G.S., Caccavello,R.,
+            Davis,D., Doan,M., Dovey,H.F., Frigon,N., Hong,J.,
+            Jacobson-Croak,K., Jewett,N., Keim,P., Knops,J., Lieberburg,I.,
+            Power,M., Tan,H., Tatsuno,G., Tung,J., Schenk,D., Seubert,P.,
+            Suomensaari,S.M., Wang,S., Walker,D., Zhao,J., McConlogue,L. and
+            John,V.
+  TITLE     Purification and cloning of amyloid precursor protein
+            beta-secretase from human brain
+  JOURNAL   Nature 402 (6761), 537-540 (1999)
+   PUBMED   10591214
+REFERENCE   8  (bases 1 to 5850)
+  AUTHORS   Yan,R., Bienkowski,M.J., Shuck,M.E., Miao,H., Tory,M.C.,
+            Pauley,A.M., Brashier,J.R., Stratman,N.C., Mathews,W.R., Buhl,A.E.,
+            Carter,D.B., Tomasselli,A.G., Parodi,L.A., Heinrikson,R.L. and
+            Gurney,M.E.
+  TITLE     Membrane-anchored aspartyl protease with Alzheimer's disease
+            beta-secretase activity
+  JOURNAL   Nature 402 (6761), 533-537 (1999)
+   PUBMED   10591213
+REFERENCE   9  (bases 1 to 5850)
+  AUTHORS   Hussain,I., Powell,D., Howlett,D.R., Tew,D.G., Meek,T.D.,
+            Chapman,C., Gloger,I.S., Murphy,K.E., Southan,C.D., Ryan,D.M.,
+            Smith,T.S., Simmons,D.L., Walsh,F.S., Dingwall,C. and Christie,G.
+  TITLE     Identification of a novel aspartic protease (Asp 2) as
+            beta-secretase
+  JOURNAL   Mol. Cell. Neurosci. 14 (6), 419-427 (1999)
+   PUBMED   10656250
+REFERENCE   10 (bases 1 to 5850)
+  AUTHORS   Vassar,R., Bennett,B.D., Babu-Khan,S., Kahn,S., Mendiaz,E.A.,
+            Denis,P., Teplow,D.B., Ross,S., Amarante,P., Loeloff,R., Luo,Y.,
+            Fisher,S., Fuller,J., Edenson,S., Lile,J., Jarosinski,M.A.,
+            Biere,A.L., Curran,E., Burgess,T., Louis,J.C., Collins,F.,
+            Treanor,J., Rogers,G. and Citron,M.
+  TITLE     Beta-secretase cleavage of Alzheimer's amyloid precursor protein by
+            the transmembrane aspartic protease BACE
+  JOURNAL   Science 286 (5440), 735-741 (1999)
+   PUBMED   10531052
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from BC065492.1, AF201468.1,
+            AB032975.2 and BQ005204.1.
+            
+            [WARNING] On May 19, 2011 this sequence was replaced by
+            NM_012104.4.
+            
+            On Apr 7, 2004 this sequence version replaced NM_012104.2.
+            
+            Summary: Cerebral deposition of amyloid beta peptide is an early
+            and critical feature of Alzheimer's disease. Amyloid beta peptide
+            is generated by proteolytic cleavage of amyloid precursor protein
+            (APP) by two proteases, one of which is the protein encoded by this
+            gene. The encoded protein, a member of the peptidase A1 protein
+            family, is a type I integral membrane glycoprotein and aspartic
+            protease that is found mainly in the Golgi. Four transcript
+            variants encoding different isoforms have been described for this
+            gene. [provided by RefSeq].
+            
+            Transcript Variant: This variant (a) is the longest transcript and
+            it encodes the longest isoform (A).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-15                BC065492.1         1-15
+            16-1246             AF201468.1         9-1239
+            1247-5832           AB032975.2         1229-5814
+            5833-5850           BQ005204.1         1-18                c
+FEATURES             Location/Qualifiers
+     source          1..5850
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11q23.2-q23.3"
+     gene            1..5850
+                     /gene="BACE1"
+                     /gene_synonym="ASP2; BACE; FLJ90568; HSPC104; KIAA1149"
+                     /note="beta-site APP-cleaving enzyme 1"
+                     /db_xref="GeneID:23621"
+                     /db_xref="HGNC:HGNC:933"
+                     /db_xref="HPRD:07255"
+                     /db_xref="MIM:604252"
+     misc_feature    228..230
+                     /gene="BACE1"
+                     /gene_synonym="ASP2; BACE; FLJ90568; HSPC104; KIAA1149"
+                     /note="upstream in-frame stop codon"
+     CDS             462..1967
+                     /gene="BACE1"
+                     /gene_synonym="ASP2; BACE; FLJ90568; HSPC104; KIAA1149"
+                     /EC_number="3.4.23.46"
+                     /note="isoform A preproprotein is encoded by transcript
+                     variant a; beta-site amyloid beta A4 precursor
+                     protein-cleaving enzyme; APP beta-secretase; aspartyl
+                     protease 2; memapsin-2; membrane-associated aspartic
+                     protease 2; transmembrane aspartic proteinase Asp2;
+                     beta-secretase 1 precursor variant 1; asp 2; beta-site APP
+                     cleaving enzyme 1; beta-site amyloid precursor protein
+                     cleaving enzyme 1"
+                     /codon_start=1
+                     /product="beta-secretase 1 isoform A preproprotein"
+                     /protein_id="NP_036236.1"
+                     /db_xref="CCDS:CCDS8383.1"
+                     /db_xref="GeneID:23621"
+                     /db_xref="HGNC:HGNC:933"
+                     /db_xref="HPRD:07255"
+                     /db_xref="MIM:604252"
+                     /translation="MAQALPWLLLWMGAGVLPAHGTQHGIRLPLRSGLGGAPLGLRLP
+                     RETDEEPEEPGRRGSFVEMVDNLRGKSGQGYYVEMTVGSPPQTLNILVDTGSSNFAVG
+                     AAPHPFLHRYYQRQLSSTYRDLRKGVYVPYTQGKWEGELGTDLVSIPHGPNVTVRANI
+                     AAITESDKFFINGSNWEGILGLAYAEIARPDDSLEPFFDSLVKQTHVPNLFSLQLCGA
+                     GFPLNQSEVLASVGGSMIIGGIDHSLYTGSLWYTPIRREWYYEVIIVRVEINGQDLKM
+                     DCKEYNYDKSIVDSGTTNLRLPKKVFEAAVKSIKAASSTEKFPDGFWLGEQLVCWQAG
+                     TTPWNIFPVISLYLMGEVTNQSFRITILPQQYLRPVEDVATSQDDCYKFAISQSSTGT
+                     VMGAVIMEGFYVVFDRARKRIGFAVSACHVHDEFRTAAVEGPFVTLDMEDCGYNIPQT
+                     DESTLMTIAYVMAAICALFMLPLCLMVCQWRCLRCLRQQHDDFADDISLLK"
+     sig_peptide     462..524
+                     /gene="BACE1"
+                     /gene_synonym="ASP2; BACE; FLJ90568; HSPC104; KIAA1149"
+     mat_peptide     597..1964
+                     /gene="BACE1"
+                     /gene_synonym="ASP2; BACE; FLJ90568; HSPC104; KIAA1149"
+                     /product="beta-secretase 1 isoform A"
+     misc_feature    1833..1895
+                     /gene="BACE1"
+                     /gene_synonym="ASP2; BACE; FLJ90568; HSPC104; KIAA1149"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P56817.2);
+                     transmembrane region"
+     misc_feature    1896..1964
+                     /gene="BACE1"
+                     /gene_synonym="ASP2; BACE; FLJ90568; HSPC104; KIAA1149"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (P56817.2);
+                     Region: Interaction with RTN3"
+     polyA_site      5829
+                     /gene="BACE1"
+                     /gene_synonym="ASP2; BACE; FLJ90568; HSPC104; KIAA1149"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+     polyA_site      5835
+                     /gene="BACE1"
+                     /gene_synonym="ASP2; BACE; FLJ90568; HSPC104; KIAA1149"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+ORIGIN      
+        1 acaagtcttt ccgcctcccc agcccgcccg ggagctgcga gccgcgagct ggattatggt
+       61 ggcctgagca gccaacgcag ccgcaggagc ccggagccct tgcccctgcc cgcgccgccg
+      121 cccgccgggg ggaccaggga agccgccacc ggcccgccat gcccgcccct cccagccccg
+      181 ccgggagccc gcgcccgctg cccaggctgg ccgccgccgt gccgatgtag cgggctccgg
+      241 atcccagcct ctcccctgct cccgtgctct gcggatctcc cctgaccgct ctccacagcc
+      301 cggacccggg ggctggccca gggccctgca ggccctggcg tcctgatgcc cccaagctcc
+      361 ctctcctgag aagccaccag caccacccag acttgggggc aggcgccagg gacggacgtg
+      421 ggccagtgcg agcccagagg gcccgaaggc cggggcccac catggcccaa gccctgccct
+      481 ggctcctgct gtggatgggc gcgggagtgc tgcctgccca cggcacccag cacggcatcc
+      541 ggctgcccct gcgcagcggc ctggggggcg cccccctggg gctgcggctg ccccgggaga
+      601 ccgacgaaga gcccgaggag cccggccgga ggggcagctt tgtggagatg gtggacaacc
+      661 tgaggggcaa gtcggggcag ggctactacg tggagatgac cgtgggcagc cccccgcaga
+      721 cgctcaacat cctggtggat acaggcagca gtaactttgc agtgggtgct gccccccacc
+      781 ccttcctgca tcgctactac cagaggcagc tgtccagcac ataccgggac ctccggaagg
+      841 gtgtgtatgt gccctacacc cagggcaagt gggaagggga gctgggcacc gacctggtaa
+      901 gcatccccca tggccccaac gtcactgtgc gtgccaacat tgctgccatc actgaatcag
+      961 acaagttctt catcaacggc tccaactggg aaggcatcct ggggctggcc tatgctgaga
+     1021 ttgccaggcc tgacgactcc ctggagcctt tctttgactc tctggtaaag cagacccacg
+     1081 ttcccaacct cttctccctg cagctttgtg gtgctggctt ccccctcaac cagtctgaag
+     1141 tgctggcctc tgtcggaggg agcatgatca ttggaggtat cgaccactcg ctgtacacag
+     1201 gcagtctctg gtatacaccc atccggcggg agtggtatta tgaggtgatc attgtgcggg
+     1261 tggagatcaa tggacaggat ctgaaaatgg actgcaagga gtacaactat gacaagagca
+     1321 ttgtggacag tggcaccacc aaccttcgtt tgcccaagaa agtgtttgaa gctgcagtca
+     1381 aatccatcaa ggcagcctcc tccacggaga agttccctga tggtttctgg ctaggagagc
+     1441 agctggtgtg ctggcaagca ggcaccaccc cttggaacat tttcccagtc atctcactct
+     1501 acctaatggg tgaggttacc aaccagtcct tccgcatcac catccttccg cagcaatacc
+     1561 tgcggccagt ggaagatgtg gccacgtccc aagacgactg ttacaagttt gccatctcac
+     1621 agtcatccac gggcactgtt atgggagctg ttatcatgga gggcttctac gttgtctttg
+     1681 atcgggcccg aaaacgaatt ggctttgctg tcagcgcttg ccatgtgcac gatgagttca
+     1741 ggacggcagc ggtggaaggc ccttttgtca ccttggacat ggaagactgt ggctacaaca
+     1801 ttccacagac agatgagtca accctcatga ccatagccta tgtcatggct gccatctgcg
+     1861 ccctcttcat gctgccactc tgcctcatgg tgtgtcagtg gcgctgcctc cgctgcctgc
+     1921 gccagcagca tgatgacttt gctgatgaca tctccctgct gaagtgagga ggcccatggg
+     1981 cagaagatag agattcccct ggaccacacc tccgtggttc actttggtca caagtaggag
+     2041 acacagatgg cacctgtggc cagagcacct caggaccctc cccacccacc aaatgcctct
+     2101 gccttgatgg agaaggaaaa ggctggcaag gtgggttcca gggactgtac ctgtaggaaa
+     2161 cagaaaagag aagaaagaag cactctgctg gcgggaatac tcttggtcac ctcaaattta
+     2221 agtcgggaaa ttctgctgct tgaaacttca gccctgaacc tttgtccacc attcctttaa
+     2281 attctccaac ccaaagtatt cttcttttct tagtttcaga agtactggca tcacacgcag
+     2341 gttaccttgg cgtgtgtccc tgtggtaccc tggcagagaa gagaccaagc ttgtttccct
+     2401 gctggccaaa gtcagtagga gaggatgcac agtttgctat ttgctttaga gacagggact
+     2461 gtataaacaa gcctaacatt ggtgcaaaga ttgcctcttg aattaaaaaa aaaaactaga
+     2521 ttgactattt atacaaatgg gggcggctgg aaagaggaga aggagaggga gtacaaagac
+     2581 agggaatagt gggatcaaag ctaggaaagg cagaaacaca accactcacc agtcctagtt
+     2641 ttagacctca tctccaagat agcatcccat ctcagaagat gggtgttgtt ttcaatgttt
+     2701 tcttttctgt ggttgcagcc tgaccaaaag tgagatggga agggcttatc tagccaaaga
+     2761 gctctttttt agctctctta aatgaagtgc ccactaagaa gttccactta acacatgaat
+     2821 ttctgccata ttaatttcat tgtctctatc tgaaccaccc tttattctac atatgatagg
+     2881 cagcactgaa atatcctaac cccctaagct ccaggtgccc tgtgggagag caactggact
+     2941 atagcagggc tgggctctgt cttcctggtc ataggctcac tctttccccc aaatcttcct
+     3001 ctggagcttt gcagccaagg tgctaaaagg aataggtagg agacctcttc tatctaatcc
+     3061 ttaaaagcat aatgttgaac attcattcaa cagctgatgc cctataaccc ctgcctggat
+     3121 ttcttcctat taggctataa gaagtagcaa gatctttaca taattcagag tggtttcatt
+     3181 gccttcctac cctctctaat ggcccctcca tttatttgac taaagcatca cacagtggca
+     3241 ctagcattat accaagagta tgagaaatac agtgctttat ggctctaaca ttactgcctt
+     3301 cagtatcaag gctgcctgga gaaaggatgg cagcctcagg gcttccttat gtcctccacc
+     3361 acaagagctc cttgatgaag gtcatctttt tcccctatcc tgttcttccc ctccccgctc
+     3421 ctaatggtac gtgggtaccc aggctggttc ttgggctagg tagtggggac caagttcatt
+     3481 acctccctat cagttctagc atagtaaact acggtaccag tgttagtggg aagagctggg
+     3541 ttttcctagt atacccactg catcctactc ctacctggtc aacccgctgc ttccaggtat
+     3601 gggacctgct aagtgtggaa ttacctgata agggagaggg aaatacaagg agggcctctg
+     3661 gtgttcctgg cctcagccag ctgcccacaa gccataaacc aataaaacaa gaatactgag
+     3721 tcagtttttt atctgggttc tcttcattcc cactgcactt ggtgctgctt tggctgactg
+     3781 ggaacacccc ataactacag agtctgacag gaagactgga gactgtccac ttctagctcg
+     3841 gaacttactg tgtaaataaa ctttcagaac tgctaccatg aagtgaaaat gccacatttt
+     3901 gctttataat ttctacccat gttgggaaaa actggctttt tcccagccct ttccagggca
+     3961 taaaactcaa ccccttcgat agcaagtccc atcagcctat tattttttta aagaaaactt
+     4021 gcacttgttt ttctttttac agttacttcc ttcctgcccc aaaattataa actctaagtg
+     4081 taaaaaaaag tcttaacaac agcttcttgc ttgtaaaaat atgtattata catctgtatt
+     4141 tttaaattct gctcctgaaa aatgactgtc ccattctcca ctcactgcat ttggggcctt
+     4201 tcccattggt ctgcatgtct tttatcattg caggccagtg gacagaggga gaagggagaa
+     4261 caggggtcgc caacacttgt gttgctttct gactgatcct gaacaagaaa gagtaacact
+     4321 gaggcgctcg ctcccatgca caactctcca aaacacttat cctcctgcaa gagtgggctt
+     4381 tccagggtct ttactgggaa gcagttaagc cccctcctca ccccttcctt ttttctttct
+     4441 ttactccttt ggcttcaaag gattttggaa aagaaacaat atgctttaca ctcattttca
+     4501 atttctaaat ttgcagggga tactgaaaaa tacggcaggt ggcctaaggc tgctgtaaag
+     4561 ttgaggggag aggaaatctt aagattacaa gataaaaaac gaatccccta aacaaaaaga
+     4621 acaatagaac tggtcttcca ttttgccacc tttcctgttc atgacagcta ctaacctgga
+     4681 gacagtaaca tttcattaac caaagaaagt gggtcacctg acctctgaag agctgagtac
+     4741 tcaggccact ccaatcaccc tacaagatgc caaggaggtc ccaggaagtc cagctcctta
+     4801 aactgacgct agtcaataaa cctgggcaag tgaggcaaga gaaatgagga agaatccatc
+     4861 tgtgaggtga caggcaagga tgaaagacaa agaaggaaaa gagtatcaaa ggcagaaagg
+     4921 agatcattta gttgggtctg aaaggaaaag tctttgctat ccgacatgta ctgctagtac
+     4981 ctgtaagcat tttaggtccc agaatggaaa aaaaaatcag ctattggtaa tataataatg
+     5041 tcctttccct ggagtcagtt tttttaaaaa gttaactctt agtttttact tgtttaattc
+     5101 taaaagagaa gggagctgag gccattccct gtaggagtaa agataaaagg ataggaaaag
+     5161 attcaaagct ctaatagagt cacagctttc ccaggtataa aacctaaaat taagaagtac
+     5221 aataagcaga ggtggaaaat gatctagttc ctgatagcta cccacagagc aagtgattta
+     5281 taaatttgaa atccaaacta ctttcttaat atcactttgg tctccatttt tcccaggaca
+     5341 ggaaatatgt ccccccctaa ctttcttgct tcaaaaatta aaatccagca tcccaagatc
+     5401 attctacaag taattttgca cagacatctc ctcaccccag tgcctgtctg gagctcaccc
+     5461 aaggtcacca aacaacttgg ttgtgaacca actgccttaa ccttctgggg gagggggatt
+     5521 agctagacta ggagaccaga agtgaatggg aaagggtgag gacttcacaa tgttggcctg
+     5581 tcagagcttg attagaagcc aagacagtgg cagcaaagga agacttggcc caggaaaaac
+     5641 ctgtgggttg tgctaatttc tgtccagaaa atagggtgga cagaagcttg tggggtacat
+     5701 ggaggaattg ggacctggtt atgttgttat tctcggactg tgaattttgg tgatgtaaaa
+     5761 cagaatattc tgtaaaccta atgtctgtat aaataatgag cgttaacaca gtaaaatatt
+     5821 caataagaag tcaaaaaaaa aaaaaaaaaa
+//
+

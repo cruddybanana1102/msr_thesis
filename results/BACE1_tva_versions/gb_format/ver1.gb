@@ -1,0 +1,178 @@
+LOCUS       NM_012104               5878 bp    mRNA    linear   PRI 02-NOV-2000
+DEFINITION  Homo sapiens beta-site APP-cleaving enzyme (BACE), mRNA.
+ACCESSION   NM_012104
+VERSION     NM_012104.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Primates; Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 5878)
+  AUTHORS   Sinha,S., Anderson,J.P., Barbour,R., Basi,G.S., Caccavello,R.,
+            Davis,D., Doan,M., Dovey,H.F., Frigon,N., Hong,J.,
+            Jacobson-Croak,K., Jewett,N., Keim,P., Knops,J., Lieberburg,I.,
+            Power,M., Tan,H., Tatsuno,G., Tung,J., Schenk,D., Seubert,P.,
+            Suomensaari,S., Wang,S., Walker,D., Zhao,J., McConlogue,L. and
+            John,V.
+  TITLE     Purification and cloning of amyloid precursor protein
+            beta-secretase from human brain
+  JOURNAL   Nature 402 (6761), 537-540 (1999)
+   PUBMED   10591214
+REFERENCE   2  (bases 1 to 5878)
+  AUTHORS   Yan,R., Bienkowski,M.J., Shuck,M.E., Miao,H., Tory,M.C.,
+            Pauley,A.M., Brashier,J.R., Stratman,N.C., Mathews,W.R., Buhl,A.E.,
+            Carter,D.B., Tomasselli,A.G., Parodi,L.A., Heinrikson,R.L. and
+            Gurney,M.E.
+  TITLE     Membrane-anchored aspartyl protease with Alzheimer's disease
+            beta-secretase activity
+  JOURNAL   Nature 402 (6761), 533-537 (1999)
+   PUBMED   10591213
+REFERENCE   3  (bases 1 to 5878)
+  AUTHORS   Vassar,R., Bennett,B.D., Babu-Khan,S., Kahn,S., Mendiaz,E.A.,
+            Denis,P., Teplow,D.B., Ross,S., Amarante,P., Loeloff,R., Luo,Y.,
+            Fisher,S., Fuller,J., Edenson,S., Lile,J., Jarosinski,M.A.,
+            Biere,A.L., Curran,E., Burgess,T., Louis,J.C., Collins,F.,
+            Treanor,J., Rogers,G. and Citron,M.
+  TITLE     Beta-secretase cleavage of Alzheimer's amyloid precursor protein by
+            the transmembrane aspartic protease BACE
+  JOURNAL   Science 286 (5440), 735-741 (1999)
+   PUBMED   10531052
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from AF201468.1.
+            
+            [WARNING] On May 21, 2002 this sequence was replaced by
+            NM_012104.2.
+FEATURES             Location/Qualifiers
+     source          1..5878
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+                     /map="11q23.2-q23.3"
+                     /tissue_type="brain"
+     gene            1..5878
+                     /gene="BACE"
+                     /db_xref="GeneID:23621"
+                     /db_xref="MIM:604252"
+     CDS             455..1960
+                     /gene="BACE"
+                     /function="cleaves APP at the beta-cleavage site"
+                     /codon_start=1
+                     /product="beta-site APP-cleaving enzyme"
+                     /protein_id="NP_036236.1"
+                     /db_xref="GeneID:23621"
+                     /db_xref="MIM:604252"
+                     /translation="MAQALPWLLLWMGAGVLPAHGTQHGIRLPLRSGLGGAPLGLRLP
+                     RETDEEPEEPGRRGSFVEMVDNLRGKSGQGYYVEMTVGSPPQTLNILVDTGSSNFAVG
+                     AAPHPFLHRYYQRQLSSTYRDLRKGVYVPYTQGKWEGELGTDLVSIPHGPNVTVRANI
+                     AAITESDKFFINGSNWEGILGLAYAEIARPDDSLEPFFDSLVKQTHVPNLFSLQLCGA
+                     GFPLNQSEVLASVGGSMIIGGIDHSLYTGSLWYTPIRREWYYEVIIVRVEINGQDLKM
+                     DCKEYNYDKSIVDSGTTNLRLPKKVFEAAVKSIKAASSTEKFPDGFWLGEQLVCWQAG
+                     TTPWNIFPVISLYLMGEVTNQSFRITILPQQYLRPVEDVATSQDDCYKFAISQSSTGT
+                     VMGAVIMEGFYVVFDRARKRIGFAVSACHVHDEFRTAAVEGPFVTLDMEDCGYNIPQT
+                     DESTLMTIAYVMAAICALFMLPLCLMVCQWRCLRCLRQQHDDFADDISLLK"
+     misc_feature    677..1702
+                     /gene="BACE"
+                     /note="asp; Region: Eukaryotic aspartyl protease"
+                     /db_xref="CDD:pfam00026"
+ORIGIN      
+        1 cgcactcgtc cccagcccgc ccgggagctg cgagccgcga gctggattat ggtggcctga
+       61 gcagccaacg cagccgcagg agcccggagc ccttgcccct gcccgcgccg ccgcccgccg
+      121 gggggaccag ggaagccgcc accggcccgc catgcccgcc cctcccagcc ccgccgggag
+      181 cccgcgcccg ctgcccaggc tggccgccgc cgtgccgatg tagcgggctc cggatcccag
+      241 cctctcccct gctcccgtgc tctgcggatc tcccctgacc gctctccaca gcccggaccc
+      301 gggggctggc ccagggccct gcaggccctg gcgtcctgat gcccccaagc tccctctcct
+      361 gagaagccac cagcaccacc cagacttggg ggcaggcgcc agggacggac gtgggccagt
+      421 gcgagcccag agggcccgaa ggccggggcc caccatggcc caagccctgc cctggctcct
+      481 gctgtggatg ggcgcgggag tgctgcctgc ccacggcacc cagcacggca tccggctgcc
+      541 cctgcgcagc ggcctggggg gcgcccccct ggggctgcgg ctgccccggg agaccgacga
+      601 agagcccgag gagcccggcc ggaggggcag ctttgtggag atggtggaca acctgagggg
+      661 caagtcgggg cagggctact acgtggagat gaccgtgggc agccccccgc agacgctcaa
+      721 catcctggtg gatacaggca gcagtaactt tgcagtgggt gctgcccccc accccttcct
+      781 gcatcgctac taccagaggc agctgtccag cacataccgg gacctccgga agggtgtgta
+      841 tgtgccctac acccagggca agtgggaagg ggagctgggc accgacctgg taagcatccc
+      901 ccatggcccc aacgtcactg tgcgtgccaa cattgctgcc atcactgaat cagacaagtt
+      961 cttcatcaac ggctccaact gggaaggcat cctggggctg gcctatgctg agattgccag
+     1021 gcctgacgac tccctggagc ctttctttga ctctctggta aagcagaccc acgttcccaa
+     1081 cctcttctcc ctgcagcttt gtggtgctgg cttccccctc aaccagtctg aagtgctggc
+     1141 ctctgtcgga gggagcatga tcattggagg tatcgaccac tcgctgtaca caggcagtct
+     1201 ctggtataca cccatccggc gggagtggta ttatgaggtc atcattgtgc gggtggagat
+     1261 caatggacag gatctgaaaa tggactgcaa ggagtacaac tatgacaaga gcattgtgga
+     1321 cagtggcacc accaaccttc gtttgcccaa gaaagtgttt gaagctgcag tcaaatccat
+     1381 caaggcagcc tcctccacgg agaagttccc tgatggtttc tggctaggag agcagctggt
+     1441 gtgctggcaa gcaggcacca ccccttggaa cattttccca gtcatctcac tctacctaat
+     1501 gggtgaggtt accaaccagt ccttccgcat caccatcctt ccgcagcaat acctgcggcc
+     1561 agtggaagat gtggccacgt cccaagacga ctgttacaag tttgccatct cacagtcatc
+     1621 cacgggcact gttatgggag ctgttatcat ggagggcttc tacgttgtct ttgatcgggc
+     1681 ccgaaaacga attggctttg ctgtcagcgc ttgccatgtg cacgatgagt tcaggacggc
+     1741 agcggtggaa ggcccttttg tcaccttgga catggaagac tgtggctaca acattccaca
+     1801 gacagatgag tcaaccctca tgaccatagc ctatgtcatg gctgccatct gcgccctctt
+     1861 catgctgcca ctctgcctca tggtgtgtca gtggcgctgc ctccgctgcc tgcgccagca
+     1921 gcatgatgac tttgctgatg acatctccct gctgaagtga ggaggcccat gggcagaaga
+     1981 tagagattcc cctggaccac acctccgtgg ttcactttgg tcacaagtag gagacacaga
+     2041 tggcacctgt ggccagagca cctcaggacc ctccccaccc accaaatgcc tctgccttga
+     2101 tggagaagga aaaggctggc aaggtgggtt ccagggactg tacctgtagg aaacagaaaa
+     2161 gagaagaaag aagcactctg ctggcgggaa tactcttggt cacctcaaat ttaagtcggg
+     2221 aaattctgct gcttgaaact tcagccctga acctttgtcc accattcctt taaattctcc
+     2281 aacccaaagt attcttcttt tcttagtttc agaagtactg gcatcacacg caggttacct
+     2341 tggcgtgtgt ccctgtggta ccctggcaga gaagagacca agcttgtttc cctgctggcc
+     2401 aaagtcagta ggagaggatg cacagtttgc tatttgcttt agagacaggg actgtataaa
+     2461 caagcctaac attggtgcaa agattgcctc ttgaattaaa aaaaaaaact agattgacta
+     2521 tttatacaaa tgggggcggc tggaaagagg agaaggagag ggagtacaaa gacagggaat
+     2581 agtgggatca aagctaggaa aggcagaaac acaaccactc accagtccta gttttagacc
+     2641 tcatctccaa gatagcatcc catctcagaa gatgggtgtt gttttcaatg ttttcttttc
+     2701 tgtggttgca gcctgaccaa aagtgagatg ggaagggctt atctagccaa agagctcttt
+     2761 tttagctctc ttaaatgaag tgcccactaa gaagttccac ttaacacatg aatttctgcc
+     2821 atattaattt cattgtctct atctgaacca ccctttattc tacatatgat aggcagcact
+     2881 gaaatatcct aaccccctaa gctccaggtg ccctgtggga gagcaactgg actatagcag
+     2941 ggctgggctc tgtcttcctg gtcataggct cactctttcc cccaaatctt cctctggagc
+     3001 tttgcagcca aggtgctaaa aggaataggt aggagacctc ttctatctaa tccttaaaag
+     3061 cataatgttg aacattcatt caacagctga tgccctataa cccctgcctg gatttcttcc
+     3121 tattaggcta taagaagtag caagatcttt acataattca gagtggtttc attgccttcc
+     3181 taccctctct aatggcccct ccatttattt gactaaagca tcacacagtg gcactagcat
+     3241 tataccaaga gtatgagaaa tacagtgctt tatggctcta acattactgc cttcagtatc
+     3301 aaggctgcct ggagaaagga tggcagcctc agggcttcct tatgtcctcc accacaagag
+     3361 ctccttgatg aaggtcatct ttttccccta tcctgttctt cccctccccg ctcctaatgg
+     3421 tacgtgggta cccaggctgg ttcttgggct aggtagtggg gaccaagttc attacctccc
+     3481 tatcagttct agcatagtaa actacggtac cagtgttagt gggaagagct gggttttcct
+     3541 agtataccca ctgcatccta ctcctacctg gtcaacccgc tgcttccagg tatgggacct
+     3601 gctaagtgtg gaattacctg ataagggaga gggaaataca aggagggcct ctggtgttcc
+     3661 tggcctcagc cagctgccca caagccataa accaataaaa caagaatact gagtcagttt
+     3721 tttatctggg ttctcttcat tcccactgca cttggtgctg ctttggctga ctgggaacac
+     3781 cccataacta cagagtctga caggaagact ggagactgtc cacttctagc tcggaactta
+     3841 ctgtgtaaat aaactttcag aactgctacc atgaagtgaa aatgccacat tttgctttat
+     3901 aatttctacc catgttggga aaaactggct ttttcccagc cctttccagg gcataaaact
+     3961 caaccccttc gatagcaagt cccatcagcc tattattttt ttaaagaaaa cttgcacttg
+     4021 tttttctttt tacagttact tccttcctgc cccaaaatta taaactctaa gtgtaaaaaa
+     4081 aagtcttaac aacagcttct tgcttgtaaa aatatgtatt atacatctgt atttttaaat
+     4141 tctgctcctg aaaaatgact gtcccattct ccactcactg catttggggc ctttcccatt
+     4201 ggtctgcatg tcttttatca ttgcaggcca gtggacagag ggagaaggga gaacaggggt
+     4261 cgccaacact tgtgttgctt tctgactgat cctgaacaag aaagagtaac actgaggcgc
+     4321 tcgctcccat gcacaactct ccaaaacact tatcctcctg caagagtggg ctttccaggg
+     4381 tctttactgg gaagcagtta agccccctcc tcaccccttc cttttttctt tctttactcc
+     4441 tttggcttca aaggattttg gaaaagaaac aatatgcttt acactcattt tcaatttcta
+     4501 aatttgcagg ggatactgaa aaatacggca ggtggcctaa ggctgctgta aagttgaggg
+     4561 gagaggaaat cttaagatta caagataaaa aacgaatccc ctaaacaaaa agaacaatag
+     4621 aactggtctt ccattttgcc acctttcctg ttcatgacag ctactaacct ggagacagta
+     4681 acatttcatt aaccaaagaa agtgggtcac ctgacctctg aagagctgag tactcaggcc
+     4741 actccaatca ccctacaaga tgccaaggag gtcccaggaa gtccagctcc ttaaactgac
+     4801 gctagtcaat aaacctgggc aagtgaggca agagaaatga ggaagaatcc atctgtgagg
+     4861 tgacaggcaa ggatgaaaga caaagaagga aaagagtatc aaaggcagaa aggagatcat
+     4921 ttagttgggt ctgaaaggaa aagtctttgc tatccgacat gtactgctag tacctgtaag
+     4981 cattttaggt cccagaatgg aaaaaaaaat cagctattgg taatataata atgtcctttc
+     5041 cctggagtca gtttttttaa aaagttaact cttagttttt acttgtttaa ttctaaaaga
+     5101 gaagggagct gaggccattc cctgtaggag taaagataaa aggataggaa aagattcaaa
+     5161 gctctaatag agtcacagct ttcccaggta taaaacctaa aattaagaag tacaataagc
+     5221 agaggtggaa aatgatctag ttcctgatag ctacccacag agcaagtgat ttataaattt
+     5281 gaaatccaaa ctactttctt aatatcactt tggtctccat ttttcccagg acaggaaata
+     5341 tgtccccccc taactttctt gcttcaaaaa ttaaaatcca gcatcccaag atcattctac
+     5401 aagtaatttt gcacagacat ctcctcaccc cagtgcctgt ctggagctca cccaaggtca
+     5461 ccaaacaact tggttgtgaa ccaactgcct taaccttctg ggggaggggg attagctaga
+     5521 ctaggagacc agaagtgaat gggaaagggt gaggacttca caatgttggc ctgtcagagc
+     5581 ttgattagaa gccaagacag tggcagcaaa ggaagacttg gcccaggaaa aacctgtggg
+     5641 ttgtgctaat ttctgtccag aaaatagggt ggacagaagc ttgtggggtg catggaggaa
+     5701 ttgggacctg gttatgttgt tattctcgga ctgtgaattt tggtgatgta aaacagaata
+     5761 ttctgtaaac ctaatgtctg tataaataat gagcgttaac acagtaaaat attcaataag
+     5821 aagtcaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaa
+//
+
