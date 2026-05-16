@@ -1,0 +1,79 @@
+ _aln.pos                      10        20        30        40        50
+5JS1_A_template        ----------------------FKPPPRPDFGTSGRTIKLQANFFEMDIPKIDIY 
+5JS1_ago2_amino_acids  MYSGAGPALAPPAPPPPIQGYAFKPPPRPDFGTSGRTIKLQANFFEMDIPKIDIY 
+ _consrvd                                    *********************************
+
+ _aln.pos                 60        70        80        90       100       110
+5JS1_A_template        HYELDIKPEKCPRRVNREIVEHMVQHFKTQIFGDRKPVFDGRKNLYTAMPLPIGR 
+5JS1_ago2_amino_acids  HYELDIKPEKCPRRVNREIVEHMVQHFKTQIFGDRKPVFDGRKNLYTAMPLPIGR 
+ _consrvd              *******************************************************
+
+ _aln.pos                     120       130       140       150       160
+5JS1_A_template        DKVELEVTLP-----RIFKVSIKWVSCVSLQALHDALSGRL--VPFETIQALDVV 
+5JS1_ago2_amino_acids  DKVELEVTLPGEGKDRIFKVSIKWVSCVSLQALHDALSGRLPSVPFETIQALDVV 
+ _consrvd              **********     **************************  ************
+
+ _aln.pos                170       180       190       200       210       220
+5JS1_A_template        MRHLPSMRYTPVGRSFFTAS---SNPLGGGREVWFGFHQSVRPSLWKMMLNIDVS 
+5JS1_ago2_amino_acids  MRHLPSMRYTPVGRSFFTASEGCSNPLGGGREVWFGFHQSVRPSLWKMMLNIDVS 
+ _consrvd              ********************   ********************************
+
+ _aln.pos                     230       240       250       260       270
+5JS1_A_template        ATAFYKAQPVIEFVCEVLDFKSIEEQQKPLTDSQRVKFTKEIKGLKVEIT----- 
+5JS1_ago2_amino_acids  ATAFYKAQPVIEFVCEVLDFKSIEEQQKPLTDSQRVKFTKEIKGLKVEITHCGQM 
+ _consrvd              **************************************************
+
+ _aln.pos                280       290       300       310       320       330
+5JS1_A_template        HRKYRVCNVTRRPASHQTFPLQQESGQTVECTVAQYFKDRHKLVLRYPHLPCLQV 
+5JS1_ago2_amino_acids  KRKYRVCNVTRRPASHQTFPLQQESGQTVECTVAQYFKDRHKLVLRYPHLPCLQV 
+ _consrvd               ******************************************************
+
+ _aln.pos                     340       350       360       370       380
+5JS1_A_template        GQEQKHTYLPLEVCNIVAGQRCIKKLTDNQTSTMIRATARSAPDRQEEISKLMRS 
+5JS1_ago2_amino_acids  GQEQKHTYLPLEVCNIVAGQRCIKKLTDNQTSTMIRATARSAPDRQEEISKLMRS 
+ _consrvd              *******************************************************
+
+ _aln.pos                390       400       410       420       430       440
+5JS1_A_template        ADFNTDPYVREFGIMVKDEMTDVTGRVLQPPSILYGGRNKAIATPVQGVWDMRNK 
+5JS1_ago2_amino_acids  ADFNTDPYVREFGIMVKDEMTDVTGRVLQPPSILYGGRNKAIATPVQGVWDMRNK 
+ _consrvd              *******************************************************
+
+ _aln.pos                     450       460       470       480       490
+5JS1_A_template        QFHTGIEIKVWAIACFAPQRQCTEVHLKSFTEQLRKISRDAGMPIQGQPCFCKYA 
+5JS1_ago2_amino_acids  QFHTGIEIKVWAIACFAPQRQCTEVHLKSFTEQLRKISRDAGMPIQGQPCFCKYA 
+ _consrvd              *******************************************************
+
+ _aln.pos                500       510       520       530       540       550
+5JS1_A_template        QGADSVEPMFRHLKNTYAGLQLVVVILPGKTPVYAEVKRVGDTVLGMATQCVQMK 
+5JS1_ago2_amino_acids  QGADSVEPMFRHLKNTYAGLQLVVVILPGKTPVYAEVKRVGDTVLGMATQCVQMK 
+ _consrvd              *******************************************************
+
+ _aln.pos                     560       570       580       590       600
+5JS1_A_template        NVQRTTPQTLSNLCLKINVKLGGVNNILLPQGRPPVFQQPVIFLGADVTHPPG-- 
+5JS1_ago2_amino_acids  NVQRTTPQTLSNLCLKINVKLGGVNNILLPQGRPPVFQQPVIFLGADVTHPPAGD 
+ _consrvd              ****************************************************
+
+ _aln.pos                610       620       630       640       650       660
+5JS1_A_template        -KKPSIAAVVGSMDAHPNRYCATVRVQQHRQEIIQDLAAMVRELLIQFYKSTRFK 
+5JS1_ago2_amino_acids  GKKPSIAAVVGSMDAHPNRYCATVRVQQHRQEIIQDLAAMVRELLIQFYKSTRFK 
+ _consrvd               ******************************************************
+
+ _aln.pos                     670       680       690       700       710
+5JS1_A_template        PTRIIFYRDGVSEGQFQQVLHHELLAIREACIKLEKDYQPGITFIVVQKRHHTRL 
+5JS1_ago2_amino_acids  PTRIIFYRDGVSEGQFQQVLHHELLAIREACIKLEKDYQPGITFIVVQKRHHTRL 
+ _consrvd              *******************************************************
+
+ _aln.pos                720       730       740       750       760       770
+5JS1_A_template        FCTDKNERVGKSGNIPAGTTVDTKITHPTEFDFYLCSHAGIQGTSRPSHYHVLWD 
+5JS1_ago2_amino_acids  FCTDKNERVGKSGNIPAGTTVDTKITHPTEFDFYLCSHAGIQGTSRPSHYHVLWD 
+ _consrvd              *******************************************************
+
+ _aln.pos                     780       790       800       810       820
+5JS1_A_template        DNRFSSDELQILTYQLCHTYVRCTRSVSIPAPAYYAHLVAFRARYHLV------- 
+5JS1_ago2_amino_acids  DNRFSSDELQILTYQLCHTYVRCTRSVSIPAPAYYAHLVAFRARYHLVDKEHDSA 
+ _consrvd              ************************************************
+
+ _aln.pos                830       840       850
+5JS1_A_template        -----------DDHQALAKAVQVHQDTLRTMYFA 
+5JS1_ago2_amino_acids  EGSHTSGQSNGRDHQALAKAVQVHQDTLRTMYFA 
+ _consrvd                          **********************
