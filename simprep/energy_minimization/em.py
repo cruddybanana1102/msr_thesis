@@ -7,7 +7,7 @@ import sys
 
 pdb = PDBFile("/home/kparth/Downloads/msr_thesis/simprep/aparna_t1_ago2.pdb")
 
-forcefield = ForceField("amber14-all.xml")
+forcefield = ForceField("amber14/protein.ff14SB.xml", "amber14/RNA.OL3.xml")
 
 modeller = Modeller(pdb.topology, pdb.positions)
 modeller.addHydrogens(forcefield, pH=7.4)
