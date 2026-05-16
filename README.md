@@ -18,14 +18,25 @@ the scores indicate subsequenced which are likely to fold into a G-quadruplex, .
 #4
 ./ssRNAs contain/ the secondary structures of *BACE1* mRNA trascript variant a version 6 ([RefSeq accession no. NM_012104](https://www.ncbi.nlm.nih.gov/nuccore/NM_012104.6)) as predicted by [SQUARNA algorithm](https://www.biorxiv.org/content/10.1101/2023.08.28.555103v1)
 (PARAM Sanganak CPU-hours were used for computation)
+
+#5
+KnotFold-based prediction of secondary structure of *BACE1* mRNA has been done added to the ./ssRNAs
+
+#6
+./templates directory has been added, which contains miR-7 pdb generated from RNAComposer,  as a single unfolded strand
+./templates/ago2_models contains MODELLER derived pdbs for filling in side-chain atoms and missing residues in 5JS1.pdb
  
+#7
+./simprep directory contains T1 sequence from Aparna ma'ams thesis, docked to ago2 ( for the docking results see top-level subdirectory ./dockprep) 
+./simprep/em.py runs a small energy minimization on the siRNA-hAGO2 complex living in aparna_t1_ago2.pdb
+
 **What to do next**
 
-1. verify using structural similarity comparisons, if there is indeed a G quadruplex in the BACE1 mRNA, using any./G4_pdbs/ as a "structural template", ( G4HUnter works only on sequences). Experimental evidence for the presence of G quadruplex as a structural motif can be seen [here](https://pmc.ncbi.nlm.nih.gov/articles/PMC3342435/) and [here](https://academic.oup.com/nar/article/49/9/4816/6204645) (  ?? No idea about algorithms still?? )
+1. 
 
-2. Figure out how to get a ( preferably) atomic-level structure for some parts of BACE1 mRNA -- absolutely essential if molecular dynamics must be performed
+2. Model the ( preferably atom-level) structure of the *BACE1* target site for T1, using templates within the ./templates subdirectory
   
-3. Compare bound and unbound structures for the human argonaute 2 protein (./other_pdbs/ has a few model structures) and setup a pipeline to get a structure that can be used for molecular dynamics
+3. Run MD/sampling for predicting conformational change in the hAGO2 protein
 
 
 
